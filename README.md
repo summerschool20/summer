@@ -35,7 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### main page on our webiste for updaets ###
+### main page on our webiste for updates ###
 
 English Language Homestays is the pre-eminent summer school in UK for the last 25 years, we have summer school in Brighton, Eastbourne and Cornwall. Our international summer school are for students aged 10 to 17. Our Summer school programs in UK are considered to be the best at Language Homestay and [Summer School](https://englishlanguagehomestays.com/summer-school/) 
 
