@@ -37,8 +37,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### main page on our webiste for updaets ###
 
-English Language Homestays is the pre-eminent summer school in UK for the last 25 years, we have summer school in Brighton, Eastbourne and Cornwall. Our international summer school are for students aged 10 to 17. Our Summer school programs in UK are considered to be the best at Language Homestay and summer school
-
-[Summer School](https://englishlanguagehomestays.com/summer-school/) 
+English Language Homestays is the pre-eminent summer school in UK for the last 25 years, we have summer school in Brighton, Eastbourne and Cornwall. Our international summer school are for students aged 10 to 17. Our Summer school programs in UK are considered to be the best at Language Homestay and [Summer School](https://englishlanguagehomestays.com/summer-school/) 
 
 
